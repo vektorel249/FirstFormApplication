@@ -6,7 +6,7 @@ namespace Vektorel.BasicControls
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new FrmBasicMath());
+            Application.Run(new FrmSmallGame());
         }
     }
 }
